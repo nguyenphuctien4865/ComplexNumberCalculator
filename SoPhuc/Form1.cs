@@ -45,13 +45,7 @@ namespace SoPhuc
 
         }
 
-     
-        private void setNo1Btn_Click(object sender, EventArgs e)
-        {
-
-        }
-
-        private void imginaryTextBox_TextChanged(object sender, EventArgs e)
+                  private void imginaryTextBox_TextChanged(object sender, EventArgs e)
         {
 
         }
